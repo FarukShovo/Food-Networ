@@ -38,6 +38,7 @@ h1{
     margin: 50px;
     padding-right: 20%;
     padding-left: 20%;
+    width: 60%;
 }
 .buttom{
     display: flex;
