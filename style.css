@@ -1,0 +1,61 @@
+body{
+    font-family: 'Nunito', sans-serif;
+}
+span{
+    color: orange;
+}
+.top{
+    display: flex;
+    margin: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+h1{
+    font-size: 50px;
+    
+}
+.container{
+    width: 50%;
+    margin: 5%;
+}
+.order-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 15px;
+    border-radius: 20px;
+    color: white;
+    font-size: 20px;
+}
+#background{
+    background-image: url(7.png);
+    background-repeat: no-repeat;
+}
+#recipies{
+    text-align: center;
+    margin: 50px;
+    padding-right: 20%;
+    padding-left: 20%;
+}
+.buttom{
+    display: flex;
+    padding: 30px;
+    margin-left: 3px;
+ 
+
+}
+.item{
+    box-shadow: rgb(206, 199, 199) 5px 5px 30px;
+    padding: 25px;
+    margin-left: 2%;
+    border-radius: 20px;
+}
+footer{
+    background: black;
+    text-align: center;
+}
+#footer-color{
+    color: rgb(105, 100, 100);
+}
+h3{
+    color: wheat;
+}
