@@ -6,9 +6,8 @@ span{
 }
 .top{
     display: flex;
-    margin: 0px;
-    padding-left: 20px;
-    padding-right: 20px;
+    margin-right: 0px;
+    
     
 }
 h1{
@@ -21,17 +20,20 @@ h1{
     margin: 5%;
   
 }
+
 .order-button{
     text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
-    padding: 15px;
-    border-radius: 20px;
+    background-image: linear-gradient(orange, rgb(218, 53, 24));
+    padding: 10px;
+    border-radius: 50px;
     color: white;
-    font-size: 20px;
+    font-size: 18px;
 }
 #background{
     background-image: url(7.png);
     background-repeat: no-repeat;
+    
+    
 }
 #recipies{
     text-align: center;
