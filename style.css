@@ -9,14 +9,17 @@ span{
     margin: 0px;
     padding-left: 20px;
     padding-right: 20px;
+    
 }
 h1{
     font-size: 50px;
+    width: 70%;
     
 }
 .container{
-    width: 50%;
+    width: 100%;
     margin: 5%;
+  
 }
 .order-button{
     text-decoration: none;
@@ -58,4 +61,18 @@ footer{
 }
 h3{
     color: wheat;
+}
+.social-media-ref{
+    display: flex;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+   
+    box-shadow: rgb(122, 121, 121) 10px 20px 40px;
+    border-radius: 15px;
+}
+.media{
+    padding: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
